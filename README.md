@@ -1,11 +1,11 @@
 ## Hey 👋,
 
-I'm **Levan Kotolashvili**, **UI/UX Designer** and **Front-end Developer**.
+I'm **Levan Kotolashvili**, **Front-end Developer** and **UI/UX Designer**.
 
 ### Talking about Personal Stuff:
 
 - 🏠 I’m working remotely; 
-- 🤔 My interests are with UI/UX Design, Shopify Development, and React Development;
+- 🤔 My interests are with Shopify Development(JS, React, Liquid) and UI/UX Design;
 
 ### To know a little more about me:
 
