@@ -1,13 +1,11 @@
 ## Hey 👋,
 
-I'm **Levan Kotolashvili**, **Front-end Developer** and **UI/UX Designer**.
+I'm **Levan Kotolashvili**, **UX Engineer**.
 
-### Talking about Personal Stuff:
+### To know a little more about me:
 
 - 🏠 I’m working remotely; 
 - 🤔 My interests are with Shopify Development(JS, React, Liquid) and UI/UX Design;
-
-### To know a little more about me:
 
 [![Website](https://img.shields.io/badge/-Personal_Website-0073B1?style=flat-square)](https://levanisart.com)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/LevanisART)
