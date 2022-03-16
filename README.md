@@ -18,8 +18,3 @@ I'm **Levan Kotolashvili**, **UX Engineer**.
 ### My GitHub Stats
 
 ![Levani's github stats](https://github-readme-stats.vercel.app/api?username=LevanisART&show_icons=true)
-
-
-<div>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=LevanisART.LevanisART" alt="visitor badge"/>
-</div>
