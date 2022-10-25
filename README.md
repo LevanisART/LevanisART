@@ -14,7 +14,3 @@ I'm **Levan Kotolashvili**, **UX Engineer**.
 
 ### Contact Me:
 [![Email](https://img.shields.io/badge/levani.qotolashvili@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:levani.qotolashvili@gmail.com)
-
-### My GitHub Stats
-
-![Levani's github stats](https://github-readme-stats.vercel.app/api?username=LevanisART&show_icons=true)
