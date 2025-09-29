@@ -1,12 +1,7 @@
-## Hey 👋,
+## Hi there, I'm Levan 👋,
 
-I'm **Levan Kotolashvili**, **UX Engineer**.
-
-### To know a little more about me:
-
-- 🏠 I’m working remotely; 
-- 🤔 My interests are with Shopify Development(JS, React, Liquid) and UI/UX Design;
-
+I'm a UX Engineer with a passion for transforming ideas into exceptional digital products. My strength lies in bridging the gap between design and development, ensuring beautiful interfaces are also highly functional and deliver real business value.
+  
 [![Website](https://img.shields.io/badge/-Personal_Website-0073B1?style=flat-square)](https://levanisart.com)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/LevanisART)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0073B1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levan-kotolashvili/)
