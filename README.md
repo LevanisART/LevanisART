@@ -1,4 +1,4 @@
-## Hi there, I'm Levan 👋,
+### Hi there, I'm Levan 👋,
 
 I'm a UX Engineer with a passion for transforming ideas into exceptional digital products. My strength lies in bridging the gap between design and development, ensuring beautiful interfaces are also highly functional and deliver real business value.
   
